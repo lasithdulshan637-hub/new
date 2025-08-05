@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 LASITH-Session-Generator
 
 ## 📊 Visitor Counter
 
